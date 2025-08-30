@@ -1,0 +1,28 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "AppShortcuts.SomeAppIntent.ShortTitle" : {
+      "comment" : "This works!",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Some app intent shortcut"
+          }
+        }
+      }
+    },
+    "SomeAppIntent.ParameterSummary ${someAppEnum}" : {
+      "comment" : "Unsure why it got extracted here, but it does work with intents declared in SPM.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Some app intent parameter summary ${someAppEnum}"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.1"
+}

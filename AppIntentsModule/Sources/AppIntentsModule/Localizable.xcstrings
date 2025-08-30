@@ -1,0 +1,72 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "SomeAppEnum.Lawnmower.Title" : {
+      "comment" : "Extracted automatically, but intent does not use this value.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lawnmower"
+          }
+        }
+      }
+    },
+    "SomeAppEnum.TypeDisplayRepresentation" : {
+      "comment" : "Extracted automatically, but intent does not use this value.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Some app enum"
+          }
+        }
+      }
+    },
+    "SomeAppIntent.Dialog.Full" : {
+      "comment" : "Extracted automatically, but intent does not use this value.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Some app intent dialog (full)"
+          }
+        }
+      }
+    },
+    "SomeAppIntent.Dialog.Supporting" : {
+      "comment" : "Extracted automatically, but intent does not use this value.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Some app intent dialog (supporting)"
+          }
+        }
+      }
+    },
+    "SomeAppIntent.ParameterSummary ${someAppEnum}" : {
+	  "comment" : "Extracted automatically, but intent does not use this value.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do something with ${someAppEnum}"
+          }
+        }
+      }
+    },
+    "SomeAppIntent.Title" : {
+      "comment" : "Extracted automatically, but intent does not use this value.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Some app intent"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.1"
+}
